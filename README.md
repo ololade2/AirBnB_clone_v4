@@ -4,7 +4,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
-* Do operations on objects (count, compute stats, etc...)
+* Do operations on objects (count, compute stats, etc.)
 * Update attributes of an object
 * Destroy an object
 
@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
+Godswill Kalu - [Github](https://github.com/Lordwill1) 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
